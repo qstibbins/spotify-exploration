@@ -1,5 +1,6 @@
 ---
-From TikTok to Top Charts
+title: From TikTok to Top Charts
+description: Analyzing its Influence on Spotify & YouTube Trends
 ---
 Analyzing its Influence on Spotify & YouTube Trends
 
